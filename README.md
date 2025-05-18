@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project investigates the presence of viral-like genes in protist species to explore possible ancient viral integration events. Using protein datasets from diverse protists and known viral marker genes, we perform homology searches, analyze significant hits, and visualize the results to understand viral footprints in protist genomes.
+This project investigates the presence of viral-like genes in protist species to explore possible ancient viral integration events. Using protein datasets from diverse protists and known viral marker genes, I perform homology searches, analyze significant hits, and visualize the results to understand viral footprints in protist genomes.
 
 ---
 
@@ -28,10 +28,10 @@ This project investigates the presence of viral-like genes in protist species to
    BLASTp was used to find homologous sequences between viral marker proteins and protist proteomes.
 
 3. **Analysis:**  
-   Significant hits were extracted, aligned, and analyzed to assess similarity and evolutionary relationships.
+   Significant hits were extracted, aligned, and analyzed to assess similarity.
 
 4. **Visualization:**  
-   Results were visualized using bar plots, heatmaps, and phylogenetic trees to summarize viral-like gene distribution and similarity.
+   Results were visualized using bar plots and heatmapsto summarize viral-like gene distribution and similarity.
 
 ---
 
@@ -40,7 +40,6 @@ This project investigates the presence of viral-like genes in protist species to
 - [Biopython](https://biopython.org/) — sequence handling and NCBI API access  
 - [NCBI BLAST+](https://blast.ncbi.nlm.nih.gov/Blast.cgi) — local and remote BLASTp searches  
 - [pandas](https://pandas.pydata.org/) and [matplotlib](https://matplotlib.org/) — data analysis and plotting  
-- [ETE3](http://etetoolkit.org/) or [iTOL](https://itol.embl.de/) — phylogenetic tree visualization (optional)
 
 ---
 
