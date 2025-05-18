@@ -48,8 +48,13 @@ This project investigates the presence of viral-like genes in protist species to
 1. Clone the repository or download the notebook files.  
 2. Run the dataset collection notebook section to download protist protein sequences.  
 3. Run the homology search section to perform BLASTp with viral marker genes.  
-4. Analyze and visualize the results using provided code cells.  
-5. Review the summary and conclusions in the final notebook section.
+4. Analyze and visualize the results using provided code cells.
+
+---
+
+##Conclusion:
+
+The analysis identified sequences within the Euglena gracilis protein set that show similarity to viral DNA Polymerase B proteins. The filtering of results for high percent identity and low E-values helps to focus on potentially significant homologous sequences. The visualizations provide insights into the distribution and relationships of the similarity metrics, highlighting the overall pattern of hits and the strength of the detected resemblances. The presence of hits suggests potential functional or evolutionary relationships between the viral and Euglena gracilis sequences that warrant further investigation.
 
 ---
 
