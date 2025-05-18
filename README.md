@@ -52,9 +52,10 @@ This project investigates the presence of viral-like genes in protist species to
 
 ---
 
-##Conclusion:
 
-The analysis identified sequences within the Euglena gracilis protein set that show similarity to viral DNA Polymerase B proteins. The filtering of results for high percent identity and low E-values helps to focus on potentially significant homologous sequences. The visualizations provide insights into the distribution and relationships of the similarity metrics, highlighting the overall pattern of hits and the strength of the detected resemblances. The presence of hits suggests potential functional or evolutionary relationships between the viral and Euglena gracilis sequences that warrant further investigation.
+## Conclusion
+
+The BLAST analysis revealed sequences within the *Euglena gracilis* protein set that exhibit similarity to viral DNA Polymerase B proteins. By filtering for strong hits (high percent identity and low E-value), potential homologous sequences were identified. The visualizations provided insights into the overall pattern and strength of these similarities. The presence of these hits suggests potential functional or evolutionary connections between the viral and *Euglena gracilis* sequences that could be further explored in subsequent studies.
 
 ---
 
